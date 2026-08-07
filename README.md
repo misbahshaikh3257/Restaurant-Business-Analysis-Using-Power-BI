@@ -29,15 +29,8 @@ This project presents an interactive Food Delivery Analytics Dashboard built usi
 (5)Dashboard Preview:
 1. Executive Overview
 The Executive Overview dashboard provides a high-level summary of business performance through key performance indicators, revenue trends, order trends, city-wise revenue analysis, and top-performing restaurants.
-Key Insights
-        -Total Revenue
-        -Total Orders
-        -Average Order Value
-        -Average Delivery Time
-        -Revenue Trend
-        -Order Trend
-        -Revenue by City
-        -Top 10 Restaurants
+
+Key Insights: Total Revenue , Total Orders ,Average Order Value ,Average Delivery Time ,Revenue Trend ,Order Trend ,Revenue by City ,Top 10 Restaurants
 ![Executive Overview](images/Executive_Overview.PNG)
 
 2. Customer Analysis
